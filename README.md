@@ -1,4 +1,4 @@
-study-supervisor
+trial-supervisor
 ================
 
 環境設定
